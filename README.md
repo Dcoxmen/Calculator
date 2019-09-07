@@ -1,6 +1,7 @@
 # Calculator
 
-Basic calculator that accepts mathmatical expressions.
+Basic calculator that accepts mathmatical expressions. 
+This project teaches how to use functions in javascript.
 
 Technology used:
 HTML
